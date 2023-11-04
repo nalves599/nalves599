@@ -7,7 +7,7 @@
 - 🌐 Look at my [website][website]
 - 🎓 Computer Science student (LEIC) at Instituto Superior Técnico
 - ️🖥️ Systems Administrator at [RNL](https://rnl.tecnico.ulisboa.pt)
-
+- 🧑‍💻 Developer Team Member at [SINFO](https://sinfo.org)
 > The difference between the impossible and the possible lies in a man's determination. - Tommy Lasorda
 
 [github]: https://github.com/nalves599
