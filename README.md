@@ -4,11 +4,8 @@
 ## About Me
 - 🎓 Computer Science student (BSc and MSc) at Instituto Superior Técnico
 - ️🖥️ Systems Administrator // Team Coordinator at [RNL](https://rnl.tecnico.ulisboa.pt)
-- 🧑‍💻 Developer Team Member at [SINFO](https://sinfo.org)
+- 🧑‍💻 Developer Team Leader at [SINFO](https://sinfo.org)
 - 🚩 CTF Player at [Security Team @ Técnico](https://sectt.github.io)
-- 🚀 Passionate about new challenges
-
-> The difference between the impossible and the possible lies in a man's determination. - Tommy Lasorda
 
 [github]: https://github.com/nalves599
 [website]: https://nfalves.pt
