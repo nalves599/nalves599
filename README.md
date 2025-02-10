@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nuno Alves][website] 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nuno%20Alves-2da0ba?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuno-francisco-alves/)](https://www.linkedin.com/in/nuno-francisco-alves/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nuno%20Alves-2da0ba?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nunofalves/)](https://www.linkedin.com/in/nunofalves/) 
 ## About Me
 - 🎓 Computer Science student (BSc and MSc) at Instituto Superior Técnico
 - ️🖥️ Systems Administrator // Team Coordinator at [RNL](https://rnl.tecnico.ulisboa.pt)
